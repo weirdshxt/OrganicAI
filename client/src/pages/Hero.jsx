@@ -255,7 +255,7 @@ const Hero = () => {
             Organic
           </a>
           <a
-            href="https://github.com"
+            href="https://github.com/weirdshxt/OrganicAI.git"
             target="_blank"
             rel="noopener noreferrer"
             className="text-white hover:text-purple-700 transition-colors"
